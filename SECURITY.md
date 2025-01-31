@@ -1,21 +1,56 @@
-# Security Policy
+#Security Policy
 
-## Supported Versions
+Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We currently support the following versions of the Image Resizer:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Version
 
-## Reporting a Vulnerability
+Supported
 
-Use this section to tell people how to report a vulnerability.
+1.x
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+✅ Active support
+
+<1.0
+
+❌ No support
+
+#Reporting a Vulnerability
+
+If you discover a security vulnerability, please follow these steps:
+
+1. Do not disclose it publicly until it has been addressed.
+
+2. Report the vulnerability via email at security@example.com (Replace with actual email).
+
+3. Provide detailed information, including:
+
+=> Steps to reproduce
+
+=> Potential impact
+
+=> Suggested fix (if applicable)
+
+=> We will acknowledge the report within 48 hours and work towards a resolution.
+
+#Security Best Practices
+
+To ensure security while using this project:
+
+1. Always download from trusted sources.
+
+2. Keep your browser updated.
+
+3. Do not upload sensitive images to public instances of the tool.
+
+# Response Process
+
+1. Initial acknowledgment: 48 hours
+
+2. Investigation: 3-5 days
+
+3. Patch release: Depends on severity
+
+Thank you for helping us keep Image Resizer secure!
+
