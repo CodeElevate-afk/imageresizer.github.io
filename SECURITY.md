@@ -22,7 +22,7 @@ If you discover a security vulnerability, please follow these steps:
 
 1. Do not disclose it publicly until it has been addressed.
 
-2. Report the vulnerability via email at security@example.com (Replace with actual email).
+2. Report the vulnerability via email at harmonylyrics4@gmail.com .
 
 3. Provide detailed information, including:
 
